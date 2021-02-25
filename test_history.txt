@@ -1,0 +1,819 @@
+﻿PokerStars Hand #223760294318:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:35:50 CET [2021/02/13 9:35:50 ET]
+Table 'Nele IV' 6-max Seat #5 is the button
+Seat 1: mros21 (€2 in chips) 
+Seat 3: flofaure (€3.02 in chips) 
+Seat 4: matrador1970 (€2.12 in chips) 
+Seat 5: TerceKap (€2.56 in chips) 
+Seat 6: Dontttcry (€2.05 in chips) 
+Dontttcry: posts small blind €0.01
+mros21: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [Kh Ts]
+7week7kk leaves the table
+flofaure: folds 
+matrador1970: folds 
+TerceKap: folds 
+Dontttcry: folds 
+Uncalled bet (€0.01) returned to mros21
+mros21 collected €0.02 from pot
+mros21: doesn't show hand 
+MiniGenky joins the table at seat #2 
+*** SUMMARY ***
+Total pot €0.02 | Rake €0 
+Seat 1: mros21 (big blind) collected (€0.02)
+Seat 3: flofaure folded before Flop (didn't bet)
+Seat 4: matrador1970 folded before Flop (didn't bet)
+Seat 5: TerceKap (button) folded before Flop (didn't bet)
+Seat 6: Dontttcry (small blind) folded before Flop
+
+
+
+PokerStars Hand #223760301971:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:36:05 CET [2021/02/13 9:36:05 ET]
+Table 'Nele IV' 6-max Seat #6 is the button
+Seat 1: mros21 (€2.01 in chips) 
+Seat 2: MiniGenky (€1.60 in chips) 
+Seat 3: flofaure (€3.02 in chips) 
+Seat 4: matrador1970 (€2.12 in chips) 
+Seat 5: TerceKap (€2.56 in chips) 
+Seat 6: Dontttcry (€2.04 in chips) 
+mros21: posts small blind €0.01
+MiniGenky is connected 
+MiniGenky: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [6h 5c]
+flofaure: folds 
+matrador1970: folds 
+TerceKap: raises €0.04 to €0.06
+Dontttcry: folds 
+mros21: folds 
+MiniGenky: folds 
+Uncalled bet (€0.04) returned to TerceKap
+TerceKap collected €0.05 from pot
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: mros21 (small blind) folded before Flop
+Seat 2: MiniGenky (big blind) folded before Flop
+Seat 3: flofaure folded before Flop (didn't bet)
+Seat 4: matrador1970 folded before Flop (didn't bet)
+Seat 5: TerceKap collected (€0.05)
+Seat 6: Dontttcry (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223760308754:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:36:18 CET [2021/02/13 9:36:18 ET]
+Table 'Nele IV' 6-max Seat #1 is the button
+Seat 1: mros21 (€2 in chips) 
+Seat 2: MiniGenky (€1.58 in chips) 
+Seat 4: matrador1970 (€2.12 in chips) 
+Seat 5: TerceKap (€2.59 in chips) 
+Seat 6: Dontttcry (€2.04 in chips) 
+MiniGenky: posts small blind €0.01
+flofaure: is sitting out 
+matrador1970: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [6h 2c]
+TerceKap: folds 
+flofaure leaves the table
+Dontttcry: folds 
+mros21: folds 
+MiniGenky: calls €0.01
+matrador1970: checks 
+*** FLOP *** [3h As 8d]
+MiniGenky: checks 
+matrador1970: checks 
+*** TURN *** [3h As 8d] [3c]
+MiniGenky: checks 
+matrador1970: checks 
+*** RIVER *** [3h As 8d 3c] [Ac]
+MiniGenky: checks 
+matrador1970: checks 
+*** SHOW DOWN ***
+MiniGenky: shows [2s Jc] (two pair, Aces and Threes)
+matrador1970: shows [Qc Td] (two pair, Aces and Threes - Queen kicker)
+matrador1970 collected €0.04 from pot
+Elcataa joins the table at seat #3 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Board [3h As 8d 3c Ac]
+Seat 1: mros21 (button) folded before Flop (didn't bet)
+Seat 2: MiniGenky (small blind) showed [2s Jc] and lost with two pair, Aces and Threes
+Seat 4: matrador1970 (big blind) showed [Qc Td] and won (€0.04) with two pair, Aces and Threes
+Seat 5: TerceKap folded before Flop (didn't bet)
+Seat 6: Dontttcry folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223760320679:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:36:41 CET [2021/02/13 9:36:41 ET]
+Table 'Nele IV' 6-max Seat #2 is the button
+Seat 1: mros21 (€2 in chips) 
+Seat 2: MiniGenky (€1.56 in chips) 
+Seat 4: matrador1970 (€2.14 in chips) 
+Seat 5: TerceKap (€2.59 in chips) 
+Seat 6: Dontttcry (€2.04 in chips) 
+matrador1970: posts small blind €0.01
+TerceKap: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [Ad 8h]
+Dontttcry: folds 
+Elcataa leaves the table
+mros21: folds 
+MiniGenky: raises €0.98 to €1
+matrador1970: calls €0.99
+TerceKap: folds 
+*** FLOP *** [4d Ac 3s]
+matrador1970: bets €0.95
+MiniGenky: calls €0.56 and is all-in
+Uncalled bet (€0.39) returned to matrador1970
+*** TURN *** [4d Ac 3s] [Qh]
+*** RIVER *** [4d Ac 3s Qh] [Qs]
+*** SHOW DOWN ***
+matrador1970: shows [Kc As] (two pair, Aces and Queens)
+MiniGenky: shows [Jh Ah] (two pair, Aces and Queens - lower kicker)
+matrador1970 collected €2.99 from pot
+*** SUMMARY ***
+Total pot €3.14 | Rake €0.15 
+Board [4d Ac 3s Qh Qs]
+Seat 1: mros21 folded before Flop (didn't bet)
+Seat 2: MiniGenky (button) showed [Jh Ah] and lost with two pair, Aces and Queens
+Seat 4: matrador1970 (small blind) showed [Kc As] and won (€2.99) with two pair, Aces and Queens
+Seat 5: TerceKap (big blind) folded before Flop
+Seat 6: Dontttcry folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223760338344:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:37:15 CET [2021/02/13 9:37:15 ET]
+Table 'Nele IV' 6-max Seat #4 is the button
+Seat 1: mros21 (€2 in chips) 
+Seat 4: matrador1970 (€3.57 in chips) 
+Seat 5: TerceKap (€2.57 in chips) 
+Seat 6: Dontttcry (€2.04 in chips) 
+TerceKap: posts small blind €0.01
+Dontttcry: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [Tc Jc]
+mros21: raises €0.04 to €0.06
+matrador1970: folds 
+menditxo joins the table at seat #3 
+TerceKap: calls €0.05
+Dontttcry: folds 
+*** FLOP *** [Qd Qs 3c]
+TerceKap: checks 
+mros21: bets €0.07
+TerceKap: folds 
+Uncalled bet (€0.07) returned to mros21
+mros21 collected €0.13 from pot
+mros21: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.14 | Rake €0.01 
+Board [Qd Qs 3c]
+Seat 1: mros21 collected (€0.13)
+Seat 4: matrador1970 (button) folded before Flop (didn't bet)
+Seat 5: TerceKap (small blind) folded on the Flop
+Seat 6: Dontttcry (big blind) folded before Flop
+
+
+
+PokerStars Hand #223760355563:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:37:48 CET [2021/02/13 9:37:48 ET]
+Table 'Nele IV' 6-max Seat #5 is the button
+Seat 1: mros21 (€2.07 in chips) 
+Seat 2: MiniGenky (€1.30 in chips) 
+Seat 3: menditxo (€0.80 in chips) 
+Seat 4: matrador1970 (€3.57 in chips) 
+Seat 5: TerceKap (€2.51 in chips) 
+Seat 6: Dontttcry (€2.02 in chips) 
+Dontttcry: posts small blind €0.01
+mros21: posts big blind €0.02
+menditxo: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [8d 5h]
+MiniGenky: folds 
+menditxo: checks 
+matrador1970: folds 
+TerceKap: folds 
+Dontttcry: raises €0.08 to €0.10
+mros21: folds 
+menditxo: folds 
+Uncalled bet (€0.08) returned to Dontttcry
+Dontttcry collected €0.06 from pot
+*** SUMMARY ***
+Total pot €0.06 | Rake €0 
+Seat 1: mros21 (big blind) folded before Flop
+Seat 2: MiniGenky folded before Flop (didn't bet)
+Seat 3: menditxo folded before Flop (didn't bet)
+Seat 4: matrador1970 folded before Flop (didn't bet)
+Seat 5: TerceKap (button) folded before Flop (didn't bet)
+Seat 6: Dontttcry (small blind) collected (€0.06)
+
+
+
+PokerStars Hand #223760366427:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:38:09 CET [2021/02/13 9:38:09 ET]
+Table 'Nele IV' 6-max Seat #6 is the button
+Seat 1: mros21 (€2.05 in chips) 
+Seat 2: MiniGenky (€1.30 in chips) 
+Seat 3: menditxo (€0.78 in chips) 
+Seat 4: matrador1970 (€3.57 in chips) 
+Seat 5: TerceKap (€2.51 in chips) 
+Seat 6: Dontttcry (€2.06 in chips) 
+mros21: posts small blind €0.01
+MiniGenky: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [3c Jh]
+menditxo: calls €0.02
+matrador1970: folds 
+TerceKap: raises €0.06 to €0.08
+Dontttcry: raises €0.20 to €0.28
+mros21: folds 
+MiniGenky: folds 
+menditxo: folds 
+TerceKap: folds 
+Uncalled bet (€0.20) returned to Dontttcry
+Dontttcry collected €0.21 from pot
+*** SUMMARY ***
+Total pot €0.21 | Rake €0 
+Seat 1: mros21 (small blind) folded before Flop
+Seat 2: MiniGenky (big blind) folded before Flop
+Seat 3: menditxo folded before Flop
+Seat 4: matrador1970 folded before Flop (didn't bet)
+Seat 5: TerceKap folded before Flop
+Seat 6: Dontttcry (button) collected (€0.21)
+
+
+
+PokerStars Hand #223760382060:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:38:40 CET [2021/02/13 9:38:40 ET]
+Table 'Nele IV' 6-max Seat #1 is the button
+Seat 1: mros21 (€2.04 in chips) 
+Seat 2: MiniGenky (€1.28 in chips) 
+Seat 3: menditxo (€0.76 in chips) 
+Seat 4: matrador1970 (€3.57 in chips) 
+Seat 5: TerceKap (€2.43 in chips) 
+Seat 6: Dontttcry (€2.19 in chips) 
+MiniGenky: posts small blind €0.01
+menditxo: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [Ah 9c]
+matrador1970: raises €0.04 to €0.06
+TerceKap: folds 
+Dontttcry: folds 
+mros21: folds 
+MiniGenky: calls €0.05
+menditxo: folds 
+*** FLOP *** [4d 3c Kc]
+MiniGenky: checks 
+matrador1970: bets €0.07
+MiniGenky: folds 
+Uncalled bet (€0.07) returned to matrador1970
+matrador1970 collected €0.13 from pot
+matrador1970: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.14 | Rake €0.01 
+Board [4d 3c Kc]
+Seat 1: mros21 (button) folded before Flop (didn't bet)
+Seat 2: MiniGenky (small blind) folded on the Flop
+Seat 3: menditxo (big blind) folded before Flop
+Seat 4: matrador1970 collected (€0.13)
+Seat 5: TerceKap folded before Flop (didn't bet)
+Seat 6: Dontttcry folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223760392636:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:39:00 CET [2021/02/13 9:39:00 ET]
+Table 'Nele IV' 6-max Seat #2 is the button
+Seat 1: mros21 (€2.04 in chips) 
+Seat 2: MiniGenky (€1.22 in chips) 
+Seat 3: menditxo (€0.74 in chips) 
+Seat 4: matrador1970 (€3.64 in chips) 
+Seat 5: TerceKap (€2.43 in chips) 
+Seat 6: Dontttcry (€2.19 in chips) 
+menditxo: posts small blind €0.01
+matrador1970: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [7c 2c]
+TerceKap: folds 
+Dontttcry: folds 
+mros21: folds 
+MiniGenky: calls €0.02
+menditxo: calls €0.01
+matrador1970: checks 
+*** FLOP *** [Ah 8s Jd]
+menditxo: checks 
+matrador1970: checks 
+MiniGenky: checks 
+*** TURN *** [Ah 8s Jd] [Qd]
+menditxo: checks 
+matrador1970: checks 
+MiniGenky: checks 
+*** RIVER *** [Ah 8s Jd Qd] [Kh]
+menditxo: checks 
+matrador1970: checks 
+MiniGenky: bets €0.20
+menditxo: folds 
+matrador1970: folds 
+Uncalled bet (€0.20) returned to MiniGenky
+MiniGenky collected €0.06 from pot
+MiniGenky: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.06 | Rake €0 
+Board [Ah 8s Jd Qd Kh]
+Seat 1: mros21 folded before Flop (didn't bet)
+Seat 2: MiniGenky (button) collected (€0.06)
+Seat 3: menditxo (small blind) folded on the River
+Seat 4: matrador1970 (big blind) folded on the River
+Seat 5: TerceKap folded before Flop (didn't bet)
+Seat 6: Dontttcry folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223760410363:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:39:35 CET [2021/02/13 9:39:35 ET]
+Table 'Nele IV' 6-max Seat #3 is the button
+Seat 1: mros21 (€2.04 in chips) 
+Seat 2: MiniGenky (€1.26 in chips) 
+Seat 3: menditxo (€0.72 in chips) 
+Seat 4: matrador1970 (€3.62 in chips) 
+Seat 5: TerceKap (€2.43 in chips) 
+Seat 6: Dontttcry (€2.19 in chips) 
+matrador1970: posts small blind €0.01
+TerceKap: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [5d 3c]
+Dontttcry: raises €0.04 to €0.06
+mros21: folds 
+MiniGenky: folds 
+MiniGenky leaves the table
+menditxo: folds 
+matrador1970: folds 
+TerceKap: calls €0.04
+*** FLOP *** [9c 8h 3d]
+TerceKap: checks 
+Dontttcry: bets €0.06
+TerceKap: folds 
+Uncalled bet (€0.06) returned to Dontttcry
+Dontttcry collected €0.12 from pot
+*** SUMMARY ***
+Total pot €0.13 | Rake €0.01 
+Board [9c 8h 3d]
+Seat 1: mros21 folded before Flop (didn't bet)
+Seat 2: MiniGenky folded before Flop (didn't bet)
+Seat 3: menditxo (button) folded before Flop (didn't bet)
+Seat 4: matrador1970 (small blind) folded before Flop
+Seat 5: TerceKap (big blind) folded on the Flop
+Seat 6: Dontttcry collected (€0.12)
+
+
+
+PokerStars Hand #223760426228:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:40:05 CET [2021/02/13 9:40:05 ET]
+Table 'Nele IV' 6-max Seat #4 is the button
+Seat 1: mros21 (€2.04 in chips) 
+Seat 3: menditxo (€0.72 in chips) 
+Seat 4: matrador1970 (€3.61 in chips) 
+Seat 5: TerceKap (€2.37 in chips) 
+Seat 6: Dontttcry (€2.25 in chips) 
+TerceKap: posts small blind €0.01
+Dontttcry: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [4h Jh]
+mros21: folds 
+menditxo: folds 
+matrador1970: folds 
+TerceKap: raises €0.04 to €0.06
+AlwaysWinnnnn joins the table at seat #2 
+Dontttcry: folds 
+Uncalled bet (€0.04) returned to TerceKap
+TerceKap collected €0.04 from pot
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: mros21 folded before Flop (didn't bet)
+Seat 3: menditxo folded before Flop (didn't bet)
+Seat 4: matrador1970 (button) folded before Flop (didn't bet)
+Seat 5: TerceKap (small blind) collected (€0.04)
+Seat 6: Dontttcry (big blind) folded before Flop
+
+
+
+PokerStars Hand #223760437170:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:40:26 CET [2021/02/13 9:40:26 ET]
+Table 'Nele IV' 6-max Seat #5 is the button
+Seat 1: mros21 (€2.04 in chips) 
+Seat 3: menditxo (€0.72 in chips) 
+Seat 4: matrador1970 (€3.61 in chips) 
+Seat 5: TerceKap (€2.39 in chips) 
+Seat 6: Dontttcry (€2.23 in chips) 
+Dontttcry: posts small blind €0.01
+mros21: posts big blind €0.02
+AlwaysWinnnnn: sits out 
+*** HOLE CARDS ***
+Dealt to mros21 [6h Kc]
+menditxo: folds 
+matrador1970: folds 
+TerceKap has timed out
+TerceKap: folds 
+Dontttcry: raises €0.04 to €0.06
+mros21: folds 
+Uncalled bet (€0.04) returned to Dontttcry
+Dontttcry collected €0.04 from pot
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: mros21 (big blind) folded before Flop
+Seat 3: menditxo folded before Flop (didn't bet)
+Seat 4: matrador1970 folded before Flop (didn't bet)
+Seat 5: TerceKap (button) folded before Flop (didn't bet)
+Seat 6: Dontttcry (small blind) collected (€0.04)
+
+
+
+PokerStars Hand #223760451017:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:40:53 CET [2021/02/13 9:40:53 ET]
+Table 'Nele IV' 6-max Seat #6 is the button
+Seat 1: mros21 (€2.02 in chips) 
+Seat 2: AlwaysWinnnnn (€2 in chips) 
+Seat 3: menditxo (€0.72 in chips) 
+Seat 4: matrador1970 (€3.61 in chips) 
+Seat 5: TerceKap (€2.39 in chips) 
+Seat 6: Dontttcry (€2.25 in chips) 
+mros21: posts small blind €0.01
+AlwaysWinnnnn: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [6c Ad]
+menditxo: folds 
+matrador1970: folds 
+TerceKap: folds 
+Dontttcry: raises €0.04 to €0.06
+mros21: raises €0.12 to €0.18
+AlwaysWinnnnn: folds 
+Dontttcry: folds 
+Uncalled bet (€0.12) returned to mros21
+mros21 collected €0.14 from pot
+mros21: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.14 | Rake €0 
+Seat 1: mros21 (small blind) collected (€0.14)
+Seat 2: AlwaysWinnnnn (big blind) folded before Flop
+Seat 3: menditxo folded before Flop (didn't bet)
+Seat 4: matrador1970 folded before Flop (didn't bet)
+Seat 5: TerceKap folded before Flop (didn't bet)
+Seat 6: Dontttcry (button) folded before Flop
+
+
+
+PokerStars Hand #223760464059:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:41:18 CET [2021/02/13 9:41:18 ET]
+Table 'Nele IV' 6-max Seat #1 is the button
+Seat 1: mros21 (€2.10 in chips) 
+Seat 2: AlwaysWinnnnn (€2 in chips) 
+Seat 3: menditxo (€0.72 in chips) 
+Seat 4: matrador1970 (€3.61 in chips) 
+Seat 5: TerceKap (€2.39 in chips) 
+Seat 6: Dontttcry (€2.19 in chips) 
+AlwaysWinnnnn: posts small blind €0.01
+menditxo: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [7h Jd]
+matrador1970: folds 
+TerceKap: folds 
+Dontttcry: raises €0.04 to €0.06
+mros21: folds 
+AlwaysWinnnnn: folds 
+menditxo: folds 
+Uncalled bet (€0.04) returned to Dontttcry
+Dontttcry collected €0.05 from pot
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: mros21 (button) folded before Flop (didn't bet)
+Seat 2: AlwaysWinnnnn (small blind) folded before Flop
+Seat 3: menditxo (big blind) folded before Flop
+Seat 4: matrador1970 folded before Flop (didn't bet)
+Seat 5: TerceKap folded before Flop (didn't bet)
+Seat 6: Dontttcry collected (€0.05)
+
+
+
+PokerStars Hand #223760473621:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:41:37 CET [2021/02/13 9:41:37 ET]
+Table 'Nele IV' 6-max Seat #2 is the button
+Seat 1: mros21 (€2.10 in chips) 
+Seat 2: AlwaysWinnnnn (€2 in chips) 
+Seat 3: menditxo (€0.70 in chips) 
+Seat 4: matrador1970 (€3.61 in chips) 
+Seat 5: TerceKap (€2.39 in chips) 
+Seat 6: Dontttcry (€2.22 in chips) 
+menditxo: posts small blind €0.01
+matrador1970: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [Qc As]
+TerceKap: folds 
+Dontttcry: folds 
+mros21: raises €0.04 to €0.06
+AlwaysWinnnnn: folds 
+menditxo: folds 
+matrador1970: folds 
+Uncalled bet (€0.04) returned to mros21
+mros21 collected €0.05 from pot
+mros21: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: mros21 collected (€0.05)
+Seat 2: AlwaysWinnnnn (button) folded before Flop (didn't bet)
+Seat 3: menditxo (small blind) folded before Flop
+Seat 4: matrador1970 (big blind) folded before Flop
+Seat 5: TerceKap folded before Flop (didn't bet)
+Seat 6: Dontttcry folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223760479724:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:41:48 CET [2021/02/13 9:41:48 ET]
+Table 'Nele IV' 6-max Seat #3 is the button
+Seat 1: mros21 (€2.13 in chips) 
+Seat 2: AlwaysWinnnnn (€2 in chips) 
+Seat 3: menditxo (€0.69 in chips) 
+Seat 4: matrador1970 (€3.59 in chips) 
+Seat 5: TerceKap (€2.39 in chips) 
+Seat 6: Dontttcry (€2.22 in chips) 
+matrador1970: posts small blind €0.01
+TerceKap: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [Jh 7c]
+Dontttcry: folds 
+mros21: folds 
+AlwaysWinnnnn: folds 
+menditxo: folds 
+matrador1970: calls €0.01
+TerceKap: raises €0.06 to €0.08
+matrador1970: calls €0.06
+*** FLOP *** [4h 3s 7d]
+matrador1970: checks 
+TerceKap: bets €0.05
+matrador1970: calls €0.05
+*** TURN *** [4h 3s 7d] [6c]
+matrador1970: checks 
+TerceKap: checks 
+*** RIVER *** [4h 3s 7d 6c] [3d]
+matrador1970: checks 
+TerceKap: checks 
+*** SHOW DOWN ***
+matrador1970: shows [2h 2s] (two pair, Threes and Deuces)
+TerceKap: shows [Ah Ac] (two pair, Aces and Threes)
+TerceKap collected €0.24 from pot
+*** SUMMARY ***
+Total pot €0.26 | Rake €0.02 
+Board [4h 3s 7d 6c 3d]
+Seat 1: mros21 folded before Flop (didn't bet)
+Seat 2: AlwaysWinnnnn folded before Flop (didn't bet)
+Seat 3: menditxo (button) folded before Flop (didn't bet)
+Seat 4: matrador1970 (small blind) showed [2h 2s] and lost with two pair, Threes and Deuces
+Seat 5: TerceKap (big blind) showed [Ah Ac] and won (€0.24) with two pair, Aces and Threes
+Seat 6: Dontttcry folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223760499937:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:42:28 CET [2021/02/13 9:42:28 ET]
+Table 'Nele IV' 6-max Seat #4 is the button
+Seat 1: mros21 (€2.13 in chips) 
+Seat 2: AlwaysWinnnnn (€2 in chips) 
+Seat 3: menditxo (€0.69 in chips) 
+Seat 4: matrador1970 (€3.46 in chips) 
+Seat 5: TerceKap (€2.50 in chips) 
+Seat 6: Dontttcry (€2.22 in chips) 
+TerceKap: posts small blind €0.01
+Dontttcry: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [As Kh]
+mros21: raises €0.04 to €0.06
+AlwaysWinnnnn: folds 
+menditxo: folds 
+matrador1970: folds 
+TerceKap: folds 
+Dontttcry: folds 
+Uncalled bet (€0.04) returned to mros21
+mros21 collected €0.05 from pot
+mros21: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: mros21 collected (€0.05)
+Seat 2: AlwaysWinnnnn folded before Flop (didn't bet)
+Seat 3: menditxo folded before Flop (didn't bet)
+Seat 4: matrador1970 (button) folded before Flop (didn't bet)
+Seat 5: TerceKap (small blind) folded before Flop
+Seat 6: Dontttcry (big blind) folded before Flop
+
+
+
+PokerStars Hand #223760512435:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:42:51 CET [2021/02/13 9:42:51 ET]
+Table 'Nele IV' 6-max Seat #5 is the button
+Seat 1: mros21 (€2.16 in chips) 
+Seat 2: AlwaysWinnnnn (€2 in chips) 
+Seat 3: menditxo (€0.69 in chips) 
+Seat 4: matrador1970 (€3.46 in chips) 
+Seat 5: TerceKap (€2.49 in chips) 
+Seat 6: Dontttcry (€2.20 in chips) 
+Dontttcry: posts small blind €0.01
+mros21: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [9h Kh]
+AlwaysWinnnnn: folds 
+menditxo: folds 
+matrador1970: folds 
+TerceKap: folds 
+Dontttcry: raises €0.04 to €0.06
+mros21: calls €0.04
+*** FLOP *** [Ac Th 4h]
+Dontttcry: bets €0.04
+mros21: calls €0.04
+*** TURN *** [Ac Th 4h] [Kd]
+Dontttcry: bets €0.19
+mros21: calls €0.19
+*** RIVER *** [Ac Th 4h Kd] [Ks]
+Dontttcry: bets €0.70
+mros21: calls €0.70
+*** SHOW DOWN ***
+Dontttcry: shows [8d 7d] (a pair of Kings)
+mros21: shows [9h Kh] (three of a kind, Kings)
+mros21 collected €1.86 from pot
+*** SUMMARY ***
+Total pot €1.98 | Rake €0.12 
+Board [Ac Th 4h Kd Ks]
+Seat 1: mros21 (big blind) showed [9h Kh] and won (€1.86) with three of a kind, Kings
+Seat 2: AlwaysWinnnnn folded before Flop (didn't bet)
+Seat 3: menditxo folded before Flop (didn't bet)
+Seat 4: matrador1970 folded before Flop (didn't bet)
+Seat 5: TerceKap (button) folded before Flop (didn't bet)
+Seat 6: Dontttcry (small blind) showed [8d 7d] and lost with a pair of Kings
+
+
+
+PokerStars Hand #223760541401:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:43:39 CET [2021/02/13 9:43:39 ET]
+Table 'Nele IV' 6-max Seat #6 is the button
+Seat 1: mros21 (€3.03 in chips) 
+Seat 2: AlwaysWinnnnn (€2 in chips) 
+Seat 3: menditxo (€0.69 in chips) 
+Seat 4: matrador1970 (€3.46 in chips) 
+Seat 5: TerceKap (€2.49 in chips) 
+Seat 6: Dontttcry (€1.21 in chips) 
+mros21: posts small blind €0.01
+AlwaysWinnnnn: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [Ad 6s]
+menditxo: raises €0.67 to €0.69 and is all-in
+matrador1970: folds 
+TerceKap: folds 
+Dontttcry: folds 
+mros21: folds 
+AlwaysWinnnnn: folds 
+Uncalled bet (€0.67) returned to menditxo
+menditxo collected €0.05 from pot
+menditxo: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: mros21 (small blind) folded before Flop
+Seat 2: AlwaysWinnnnn (big blind) folded before Flop
+Seat 3: menditxo collected (€0.05)
+Seat 4: matrador1970 folded before Flop (didn't bet)
+Seat 5: TerceKap folded before Flop (didn't bet)
+Seat 6: Dontttcry (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223760551547:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:43:59 CET [2021/02/13 9:43:59 ET]
+Table 'Nele IV' 6-max Seat #1 is the button
+Seat 1: mros21 (€3.02 in chips) 
+Seat 2: AlwaysWinnnnn (€2 in chips) 
+Seat 3: menditxo (€0.72 in chips) 
+Seat 4: matrador1970 (€3.46 in chips) 
+Seat 5: TerceKap (€2.49 in chips) 
+Seat 6: Dontttcry (€2 in chips) 
+AlwaysWinnnnn: posts small blind €0.01
+menditxo: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [Tc 7s]
+matrador1970: folds 
+TerceKap: folds 
+Dontttcry: raises €0.04 to €0.06
+mros21: folds 
+AlwaysWinnnnn: folds 
+menditxo: raises €0.66 to €0.72 and is all-in
+Dontttcry: folds 
+Uncalled bet (€0.66) returned to menditxo
+menditxo collected €0.13 from pot
+menditxo: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.13 | Rake €0 
+Seat 1: mros21 (button) folded before Flop (didn't bet)
+Seat 2: AlwaysWinnnnn (small blind) folded before Flop
+Seat 3: menditxo (big blind) collected (€0.13)
+Seat 4: matrador1970 folded before Flop (didn't bet)
+Seat 5: TerceKap folded before Flop (didn't bet)
+Seat 6: Dontttcry folded before Flop
+
+
+
+PokerStars Hand #223760560579:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:44:16 CET [2021/02/13 9:44:16 ET]
+Table 'Nele IV' 6-max Seat #2 is the button
+Seat 1: mros21 (€3.02 in chips) 
+Seat 2: AlwaysWinnnnn (€2 in chips) 
+Seat 3: menditxo (€0.79 in chips) 
+Seat 4: matrador1970 (€3.46 in chips) 
+Seat 5: TerceKap (€2.49 in chips) 
+Seat 6: Dontttcry (€1.94 in chips) 
+menditxo: posts small blind €0.01
+matrador1970: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [9c 7h]
+TerceKap: folds 
+Dontttcry: folds 
+mros21: folds 
+AlwaysWinnnnn: folds 
+menditxo: calls €0.01
+matrador1970: checks 
+*** FLOP *** [3d 4s Ks]
+menditxo: checks 
+matrador1970: bets €0.02
+menditxo: folds 
+Uncalled bet (€0.02) returned to matrador1970
+matrador1970 collected €0.04 from pot
+matrador1970: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Board [3d 4s Ks]
+Seat 1: mros21 folded before Flop (didn't bet)
+Seat 2: AlwaysWinnnnn (button) folded before Flop (didn't bet)
+Seat 3: menditxo (small blind) folded on the Flop
+Seat 4: matrador1970 (big blind) collected (€0.04)
+Seat 5: TerceKap folded before Flop (didn't bet)
+Seat 6: Dontttcry folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223760571479:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:44:37 CET [2021/02/13 9:44:37 ET]
+Table 'Nele IV' 6-max Seat #3 is the button
+Seat 1: mros21 (€3.02 in chips) 
+Seat 2: AlwaysWinnnnn (€2 in chips) 
+Seat 3: menditxo (€0.77 in chips) 
+Seat 4: matrador1970 (€3.48 in chips) 
+Seat 5: TerceKap (€2.49 in chips) 
+Seat 6: Dontttcry (€1.94 in chips) 
+matrador1970: posts small blind €0.01
+TerceKap: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [4d 7s]
+Dontttcry: folds 
+mros21: folds 
+AlwaysWinnnnn: raises €0.04 to €0.06
+menditxo: calls €0.06
+matrador1970: folds 
+TerceKap: folds 
+*** FLOP *** [Qc 5c 7d]
+AlwaysWinnnnn: bets €0.08
+menditxo: calls €0.08
+*** TURN *** [Qc 5c 7d] [Js]
+AlwaysWinnnnn: checks 
+menditxo: bets €0.08
+AlwaysWinnnnn: folds 
+Uncalled bet (€0.08) returned to menditxo
+menditxo collected €0.29 from pot
+menditxo: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.31 | Rake €0.02 
+Board [Qc 5c 7d Js]
+Seat 1: mros21 folded before Flop (didn't bet)
+Seat 2: AlwaysWinnnnn folded on the Turn
+Seat 3: menditxo (button) collected (€0.29)
+Seat 4: matrador1970 (small blind) folded before Flop
+Seat 5: TerceKap (big blind) folded before Flop
+Seat 6: Dontttcry folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223760585482:  Hold'em No Limit (€0.01/€0.02 EUR) - 2021/02/13 15:45:04 CET [2021/02/13 9:45:04 ET]
+Table 'Nele IV' 6-max Seat #4 is the button
+Seat 1: mros21 (€3.02 in chips) 
+Seat 2: AlwaysWinnnnn (€2 in chips) 
+Seat 3: menditxo (€0.92 in chips) 
+Seat 4: matrador1970 (€3.47 in chips) 
+Seat 5: TerceKap (€2.47 in chips) 
+Seat 6: Dontttcry (€1.94 in chips) 
+TerceKap: posts small blind €0.01
+Dontttcry: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mros21 [8d Qc]
+mros21: folds 
+AlwaysWinnnnn: folds 
+menditxo: calls €0.02
+matrador1970: folds 
+TerceKap: folds 
+Dontttcry: checks 
+*** FLOP *** [5c Ts 5h]
+Dontttcry: checks 
+menditxo: checks 
+*** TURN *** [5c Ts 5h] [5d]
+Dontttcry: checks 
+menditxo: bets €0.02
+Dontttcry: folds 
+Uncalled bet (€0.02) returned to menditxo
+menditxo collected €0.05 from pot
+menditxo: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Board [5c Ts 5h 5d]
+Seat 1: mros21 folded before Flop (didn't bet)
+Seat 2: AlwaysWinnnnn folded before Flop (didn't bet)
+Seat 3: menditxo collected (€0.05)
+Seat 4: matrador1970 (button) folded before Flop (didn't bet)
+Seat 5: TerceKap (small blind) folded before Flop
+Seat 6: Dontttcry (big blind) folded on the Turn
+
+
+
